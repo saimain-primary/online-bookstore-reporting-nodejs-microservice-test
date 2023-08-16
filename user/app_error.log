@@ -1,0 +1,42 @@
+{"level":"error","message":"Sat Aug 12 2023 23:10:04 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:11:13 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"BAD REQUEST\",\"statusCode\":400,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:11:33 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"BAD REQUEST\",\"statusCode\":400,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:11:33 GMT+0630 (Myanmar Time)-{\"code\":\"ERR_HTTP_INVALID_STATUS_CODE\"}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:12:50 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"BAD REQUEST\",\"statusCode\":400,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:13:08 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"BAD REQUEST\",\"statusCode\":400,\"isOperational\":true,\"errorStack\":\"User already exists\"},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:13:30 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"BAD REQUEST\",\"statusCode\":400,\"isOperational\":true,\"errorStack\":\"User already exists\"},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:13:42 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"BAD REQUEST\",\"statusCode\":400,\"isOperational\":true,\"errorStack\":400},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:14:19 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"User already exists\",\"statusCode\":400,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:14:29 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"User already exists\",\"statusCode\":400,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:14:56 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:15:02 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Aug 13 2023 13:47:16 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Aug 13 2023 13:49:59 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Aug 13 2023 21:15:06 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Aug 13 2023 21:17:14 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:12:54 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:13:54 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:15:21 GMT+0630 (Myanmar Time)-{\"expose\":true,\"statusCode\":400,\"status\":400,\"body\":\"{\\n    \\\"email\\\" : \\\"admin@gmail.com\\\",\\n    \\\"password\\\" : \\\"password\\\",\\n}\",\"type\":\"entity.parse.failed\"}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:20:31 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:21:21 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:22:03 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:22:30 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:23:17 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:26:49 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:27:14 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:27:32 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:27:57 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:45:33 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:45:53 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:46:17 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:46:56 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:47:12 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Tue Aug 15 2023 23:47:49 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Aug 16 2023 01:21:06 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Aug 16 2023 13:24:45 GMT+0630 (Myanmar Time)-{\"message\":\"unsupported charset \\\"UTF-8\\\"\",\"charset\":\"utf-8\",\"type\":\"charset.unsupported\"}","private":true}
+{"level":"error","message":"Wed Aug 16 2023 13:25:06 GMT+0630 (Myanmar Time)-{\"message\":\"unsupported charset \\\"UTF-8\\\"\",\"charset\":\"utf-8\",\"type\":\"charset.unsupported\"}","private":true}
+{"level":"error","message":"Wed Aug 16 2023 13:25:09 GMT+0630 (Myanmar Time)-{\"message\":\"unsupported charset \\\"UTF-8\\\"\",\"charset\":\"utf-8\",\"type\":\"charset.unsupported\"}","private":true}
+{"level":"error","message":"Wed Aug 16 2023 13:25:28 GMT+0630 (Myanmar Time)-{\"message\":\"unsupported charset \\\"UTF-8\\\"\",\"charset\":\"utf-8\",\"type\":\"charset.unsupported\"}","private":true}
+{"level":"error","message":"Wed Aug 16 2023 13:25:32 GMT+0630 (Myanmar Time)-{\"message\":\"unsupported charset \\\"UTF-8\\\"\",\"charset\":\"utf-8\",\"type\":\"charset.unsupported\"}","private":true}
+{"level":"error","message":"Wed Aug 16 2023 13:25:34 GMT+0630 (Myanmar Time)-{\"message\":\"unsupported charset \\\"UTF-8\\\"\",\"charset\":\"utf-8\",\"type\":\"charset.unsupported\"}","private":true}
+{"level":"error","message":"Wed Aug 16 2023 13:25:47 GMT+0630 (Myanmar Time)-{\"message\":\"unsupported charset \\\"UTF-8\\\"\",\"charset\":\"utf-8\",\"type\":\"charset.unsupported\"}","private":true}

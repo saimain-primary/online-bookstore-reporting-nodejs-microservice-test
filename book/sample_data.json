@@ -1,0 +1,72 @@
+[
+  {
+    "name": "The Great Gatsby",
+    "description": "A novel set in the Roaring Twenties, depicting the journey of the enigmatic Jay Gatsby.",
+    "cover": "https://example.com/covers/the-great-gatsby.jpg",
+    "author": "F. Scott Fitzgerald",
+    "genres": ["Fiction", "Drama"]
+  },
+  {
+    "name": "To Kill a Mockingbird",
+    "description": "A novel of racial injustice and moral growth.",
+    "cover": "https://example.com/covers/to-kill-a-mockingbird.jpg",
+    "author": "Harper Lee",
+    "genres": ["Fiction", "Legal Thriller"]
+  },
+  {
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "description": "The first book in the Harry Potter series.",
+    "cover": "https://example.com/covers/harry-potter.jpg",
+    "author": "J.K. Rowling",
+    "genres": ["Fantasy", "Adventure"]
+  },
+  {
+    "name": "The Hobbit",
+    "description": "The prelude to the Lord of the Rings trilogy.",
+    "cover": "https://example.com/covers/the-hobbit.jpg",
+    "author": "J.R.R. Tolkien",
+    "genres": ["Fantasy"]
+  },
+  {
+    "name": "1984",
+    "description": "A dystopian novel about totalitarianism.",
+    "cover": "https://example.com/covers/1984.jpg",
+    "author": "George Orwell",
+    "genres": ["Dystopian", "Political Fiction"]
+  },
+  {
+    "name": "Pride and Prejudice",
+    "description": "A classic novel about love and social standing.",
+    "cover": "https://example.com/covers/pride-and-prejudice.jpg",
+    "author": "Jane Austen",
+    "genres": ["Romance", "Classic"]
+  },
+  {
+    "name": "Moby-Dick",
+    "description": "The story of Captain Ahab's obsession with a giant white whale.",
+    "cover": "https://example.com/covers/moby-dick.jpg",
+    "author": "Herman Melville",
+    "genres": ["Adventure", "Classic"]
+  },
+  {
+    "name": "Catch-22",
+    "description": "A satirical novel about military life during World War II.",
+    "cover": "https://example.com/covers/catch-22.jpg",
+    "author": "Joseph Heller",
+    "genres": ["Satire", "War Fiction"]
+  },
+  {
+    "name": "Brave New World",
+    "description": "A novel that explores a future society driven by technological advancements.",
+    "cover": "https://example.com/covers/brave-new-world.jpg",
+    "author": "Aldous Huxley",
+    "genres": ["Dystopian", "Science Fiction"]
+  },
+  {
+    "name": "The Catcher in the Rye",
+    "description": "A novel about teenage rebellion and angst.",
+    "cover": "https://example.com/covers/catcher-in-the-rye.jpg",
+    "author": "J.D. Salinger",
+    "genres": ["Fiction", "Classic"]
+  }
+]

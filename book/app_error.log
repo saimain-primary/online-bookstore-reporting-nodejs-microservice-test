@@ -1,0 +1,25 @@
+{"level":"error","message":"Sat Aug 12 2023 23:10:04 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:11:13 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"BAD REQUEST\",\"statusCode\":400,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:11:33 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"BAD REQUEST\",\"statusCode\":400,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:11:33 GMT+0630 (Myanmar Time)-{\"code\":\"ERR_HTTP_INVALID_STATUS_CODE\"}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:12:50 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"BAD REQUEST\",\"statusCode\":400,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:13:08 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"BAD REQUEST\",\"statusCode\":400,\"isOperational\":true,\"errorStack\":\"User already exists\"},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:13:30 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"BAD REQUEST\",\"statusCode\":400,\"isOperational\":true,\"errorStack\":\"User already exists\"},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:13:42 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"BAD REQUEST\",\"statusCode\":400,\"isOperational\":true,\"errorStack\":400},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:14:19 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"User already exists\",\"statusCode\":400,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:14:29 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"User already exists\",\"statusCode\":400,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:14:56 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sat Aug 12 2023 23:15:02 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Aug 13 2023 13:47:16 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Aug 13 2023 13:49:59 GMT+0630 (Myanmar Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Aug 13 2023 20:42:44 GMT+0630 (Myanmar Time)-{\"name\":\"Could not find book\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Aug 13 2023 20:43:07 GMT+0630 (Myanmar Time)-{\"name\":\"Could not find book\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Aug 13 2023 20:43:27 GMT+0630 (Myanmar Time)-{\"name\":\"Could not find book\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Aug 13 2023 20:43:52 GMT+0630 (Myanmar Time)-{\"name\":\"Could not find book\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Aug 13 2023 20:44:07 GMT+0630 (Myanmar Time)-{\"name\":\"Could not find book\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Aug 13 2023 20:55:38 GMT+0630 (Myanmar Time)-{\"name\":\"Could not update book\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Aug 13 2023 20:55:52 GMT+0630 (Myanmar Time)-{\"name\":\"Could not update book\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Aug 13 2023 20:56:06 GMT+0630 (Myanmar Time)-{\"name\":\"Could not update book\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Aug 13 2023 20:58:28 GMT+0630 (Myanmar Time)-{\"name\":\"Could not find book\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Aug 13 2023 21:03:21 GMT+0630 (Myanmar Time)-{\"name\":\"Could not find book\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Aug 13 2023 21:03:42 GMT+0630 (Myanmar Time)-{\"name\":\"Could not find book\",\"statusCode\":{},\"isOperational\":true}","private":true}
